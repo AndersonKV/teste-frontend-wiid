@@ -1,0 +1,7 @@
+Os dados serão consumidos através de uma api externa.
+Utilizar globalização. (Adicionar algum botão para que possa alterar a linguagem).
+Utilizar tematização. (Adicionar algum botão para que possa escolher o tema: Dark ou Ligth).
+
+Criar uma tela de login simples
+Somente usuário logado poder acessar a Main page.
+ 

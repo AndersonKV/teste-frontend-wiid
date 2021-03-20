@@ -1,0 +1,28 @@
+{ 
+  "account": {
+    "0": [
+      {"name": "Caixa de entrada"},
+      {"name": "Caixa de de saida"} 
+    ],
+    "1": [
+      {"name": "Inbox"} 
+     ],
+    "2": [
+      {"name": "Entrada"},
+      {"name": "Vip"},
+      {"name": "Lixo"} 
+    ] 
+  },
+  "subMenu": [
+    {"name": "Caixa de entrada"},
+    {"name": "Caixa de saida"}
+  ],
+  "buttons": {
+   "btn1": "Atribuir",
+   "btn2": "Arquivar",
+   "btn3": "Agendar" 
+  },
+  "inputSearch": {
+    "input": "Pesquisar"
+  }
+}

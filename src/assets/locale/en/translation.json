@@ -1,0 +1,28 @@
+{
+  "account": {
+    "0": [
+      {"name": "Inbox"},
+      {"name": "Exit box"} 
+    ],
+    "1": [
+      {"name": "Inbox"} 
+     ],
+     "2": [
+      {"name": "Entrance"},
+      {"name": "Vip"},
+      {"name": "Trash"} 
+    ] 
+  },
+  "subMenu": [
+    {"name": "Inbox"},
+    {"name": "Exit box"}
+  ],
+  "buttons": {
+   "btn1": "To assign",
+   "btn2": "To file",
+   "btn3": "To schedule" 
+  },
+  "inputSearch": {
+    "input": "Search"
+  }
+}
