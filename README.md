@@ -11,6 +11,6 @@ Features
 5 - Ao clicar no icone da porta o usúario é deslogado<br>
 6 - Se o usúario não estive logado não pode acessar essa pagina e será redirecionado para o login<br>
 
- 
+Para instalar baixe os arquivos e instale as dependências com npm install ou yarn add, por fim yarn start
 <img src="ref.png"/>
 
