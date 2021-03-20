@@ -11,6 +11,6 @@ Features
 5 - Ao clicar no icone da porta o usúario é deslogado
 6 - Se o usúario não estive logado não pode acessar essa pagina e será redirecionado para o login
 
-Peço desculpas pelos possiveis erros cometidos, é que estou bem abatido
 
+<img src="ref.png"/>
 
